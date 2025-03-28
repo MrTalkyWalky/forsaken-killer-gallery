@@ -2,3 +2,34 @@ html {
   height: 100%;
   width: 100%;
 }
+h1 {
+  font-size: 70px;
+}
+h2 {
+  font-size: 50px;
+}
+h3 {
+  font-size: 30px;
+}
+h4 {
+  font-size: 25px;
+  font-family: rubik;
+  font-style: italic;
+  font-weight: normal;
+}
+body {
+  font-family: rubik;
+  text-align: center;
+  background-color: #080808;
+  color: #f0f0f0
+}
+p {
+  font-size: 25px;
+  font-family: rubik;
+  text-align: left;
+  text-indent: 20px;
+}
+a {
+  font-size: 30px;
+  font-family: rubik;
+}
